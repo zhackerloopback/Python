@@ -33,8 +33,10 @@
   <a href="https://github.com/psf/black">
     <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
+  
 <!-- Short description: -->
   <h3>All algorithms implemented in Python - for education</h3>
+ 
 </div>
 
 Implementations are for learning purposes only. As they may be less efficient than the implementations in the Python standard library, use them at your discretion.
@@ -50,3 +52,5 @@ We're on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.im
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and better overview of the project.
+
+Its very helpful for college students
